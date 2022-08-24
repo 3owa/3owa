@@ -4,7 +4,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/3owa/count.svg" />
+  <img src="https://github-readme-stats.vercel.app/api?username=3owa&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" /> />
 </p>
 
 ## About me
