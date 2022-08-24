@@ -9,7 +9,7 @@
 
 ## About me
 
-My name's Ahmed Aaoua from Morocco 🇲🇦:, and I am Android developer.
+My name's Ahmed Aaoua from Morocco 🇲🇦 , and I am Android developer.
 
 ## Things I am passionate about
 - Android 🤖:
