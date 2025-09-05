@@ -8,5 +8,5 @@ I am a Software developer.
 - Clean Architecture
 - Java
 - Branding
-- Solve Problems
+- Problem Solving
 - Management
