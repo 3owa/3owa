@@ -1,11 +1,12 @@
 ## About me
 
-I am an Android software developer.
+I am a Software developer.
 
 ## Things I am passionate about
-- Android
-- Kotlin
-- Jetpack compose
+- Mobile Development
+- Artificial Intelligence
 - Clean Architecture
 - Java
-- Coroutines
+- Branding
+- Solve Problems
+- Management
