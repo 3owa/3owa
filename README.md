@@ -6,7 +6,7 @@ I am a Software developer.
 - Mobile Development
 - Artificial Intelligence
 - Clean Architecture
-- Java
+- Java / Kotlin
 - Branding
 - Problem Solving
 - Management
