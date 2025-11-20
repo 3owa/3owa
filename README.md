@@ -1,5 +1,5 @@
 ## Things I am passionate about
-- Mobile Development
+- Mobile & Web Development
 - Business Management
 - Problem Solving
 - Artificial Intelligence
